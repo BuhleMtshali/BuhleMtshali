@@ -1,5 +1,25 @@
 # 💫 About Me:
-I'm currently on the Frontend career path. I'm hoping to do a career switch from Psychology to tech. I'm hoping to eventually become a full-stack software developer oneday.
+
+---
+
+### About Me
+
+👋 Hi there! I'm Buhle Mtshali, a passionate developer with a keen interest in creating innovative and efficient web solutions. With a background in R, I decided to explore other languages, I thrive on turning ideas into functional, user-friendly applications.
+
+🌐 **What I Do:**
+- **Web Development:** Crafting responsive and dynamic web pages with a focus on both front-end and back-end technologies.
+- **Projects:** Building tools and applications that solve real-world problems and enhance user experiences.
+- **Learning & Growth:** Always exploring new technologies and best practices to stay at the forefront of the tech world.
+
+🚀 **Current Projects:**
+- **Diary App:** Developing a diary application to help users track and reflect on their daily feelings.
+- **Responsive Web Design:** Working on various projects to improve web accessibility and responsiveness.
+
+Feel free to explore my repositories, contribute, or just say hi. I'm always open to collaboration and learning from others in the tech community!
+
+---
+
+
 
 
 ## 🌐 Socials:
