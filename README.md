@@ -12,7 +12,7 @@
 - **Learning & Growth:** Always exploring new technologies and best practices to stay at the forefront of the tech world.
 
 🚀 **Current Projects:**
-- **Diary App:** Developing a diary application to help users track and reflect on their daily feelings.
+- **Random Meal Search App:** Working on getting better with working APIs
 - **Responsive Web Design:** Working on various projects to improve web accessibility and responsiveness.
 
 Feel free to explore my repositories, contribute, or just say hi. I'm always open to collaboration and learning from others in the tech community!
