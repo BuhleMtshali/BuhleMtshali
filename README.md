@@ -1,5 +1,16 @@
 # 💫 About Me:
-👋🏽 hey! i’m zanobuhle — current software engineer slowly ghosting web dev to date data engineering instead 💅🏽<br><br>🐍 fluent-ish in python, vibing with cloud ☁️, flirting with cybersecurity 🛡️, and building pipelines like it's tetris 🧩<br><br>🎓 BSc in IT (Emerging Tech) + ALX fellow<br>💻 catch me writing code, parsing logs, and yelling at broken scripts<br><br>⚙️ Learning daily. Building relentlessly. Growing intentionally.<br><br>📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/zanobuhle-mtshali-2a6496210/)<br>
+
+👋🏽 hey! i’m zanobuhle — current software engineer slowly ghosting web dev to date data engineering instead 💅🏽 and lowkey seeing cybersecurity on the side 🕵🏽‍♀️
+
+🐍 fluent-ish in python, tolerating java 😅, vibing with cloud ☁️, building data pipelines like it’s tetris 🧩, and threat-hunting like it’s an episode of criminal minds 🛡️🔍
+
+🎓 BSc in IT (Emerging Tech) + ALX Data Science & Data Engineering + future cyber baddie
+
+💻 catch me writing code, parsing logs, wrangling datasets, and yelling at broken scripts (lovingly)
+
+⚙️ learning daily. building relentlessly. securing intentionally.
+
+<br>📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/zanobuhle-mtshali-2a6496210/)<br>
 
 
 ## 🌐 Socials:
