@@ -1,14 +1,18 @@
 # 💫 About Me:
 
-👋🏽 hey! i’m zanobuhle — current software engineer slowly ghosting web dev to date data engineering instead 💅🏽 and lowkey seeing cybersecurity on the side 🕵🏽‍♀️
+👋🏽 Hey! I’m zanobuhle — a Software Engineer building strong foundations in data engineering, with a soft spot for security on the side 🛡️👀
 
-🐍 fluent-ish in python, tolerating java 😅, vibing with cloud ☁️, building data pipelines like it’s tetris 🧩, and threat-hunting like it’s an episode of criminal minds 🛡️🔍
+🐍 comfy in Python, surviving Java 😅, getting cozy with cloud ☁️, and building data pipelines like it’s Tetris on hard mode 🧩
 
-🎓 BSc in IT (Emerging Tech) + ALX Data Science & Data Engineering + future cyber baddie
+🔍 curious about cybersecurity, threat models, and how systems actually break (yes, crime shows influenced this)
 
-💻 catch me writing code, parsing logs, wrangling datasets, and yelling at broken scripts (lovingly)
+🎓 BSc in IT (Emerging Technologies)
 
-⚙️ learning daily. building relentlessly. securing intentionally.
+🧠 engineering first, security later — intentionally
+
+💻 usually found writing code, wrangling datasets, parsing logs, and debugging things that worked 5 minutes ago
+
+⚙️ learning deeply. building patiently. securing when it counts
 
 <br>📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/zanobuhle-mtshali-2a6496210/)<br>
 
