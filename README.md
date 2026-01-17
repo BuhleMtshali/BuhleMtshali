@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋🏽 Hey! I’m zanobuhle — a Software Engineer building strong foundations in data engineering, with a soft spot for security on the side 🛡️👀
+👋🏽 Hey! I’m Buhle — a Software Engineer building strong foundations in data engineering, with a soft spot for security on the side 🛡️👀
 
 🐍 comfy in Python, surviving Java 😅, getting cozy with cloud ☁️, and building data pipelines like it’s Tetris on hard mode 🧩
 
