@@ -1,18 +1,18 @@
 # 💫 About Me:
 
-👋🏽 Hey! I’m Buhle — a Software Engineer building strong foundations in data engineering, with a soft spot for security on the side 🛡️👀
+👋🏽 Hey! I’m Buhle — a Software Engineer laying solid foundations in data engineering, with a growing focus on data & cloud security 🛡️
 
-🐍 comfy in Python, surviving Java 😅, getting cozy with cloud ☁️, and building data pipelines like it’s Tetris on hard mode 🧩
+🐍 fluent in Python, surviving Java 😅, getting comfy with SQL & cloud ☁️ — building data pipelines like it’s Tetris on hard mode 🧩
 
-🔍 curious about cybersecurity, threat models, and how systems actually break (yes, crime shows influenced this)
+🔍 curious about cybersecurity, threat models, and how systems actually break (yes, crime shows definitely played a role)
 
 🎓 BSc in IT (Emerging Technologies)
 
-🧠 engineering first, security later — intentionally
+🧠 engineering first, security layered in — intentionally
 
-💻 usually found writing code, wrangling datasets, parsing logs, and debugging things that worked 5 minutes ago
+💻 usually found writing code, wrangling datasets, parsing logs, and debugging things that worked perfectly 5 minutes ago
 
-⚙️ learning deeply. building patiently. securing when it counts
+⚙️ learning deeply · building patiently · securing what matters
 
 <br>📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/zanobuhle-mtshali-2a6496210/)<br>
 
