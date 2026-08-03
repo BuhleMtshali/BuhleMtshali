@@ -1,5 +1,14 @@
-# 💫 About Me:
-👋🏽 Hey! I’m Buhle — a Software Engineer laying solid foundations in data engineering, with a growing focus on data & cloud security 🛡️<br><br>🐍 fluent in Python, surviving Java 😅, getting comfy with SQL & cloud ☁️ — building data pipelines like it’s Tetris on hard mode 🧩<br><br>🔍 curious about cybersecurity, threat models, and how systems actually break (yes, crime shows definitely played a role)<br><br>🎓 BSc in IT (Emerging Technologies)<br><br>🧠 engineering first, security layered in — intentionally<br><br>💻 usually found writing code, wrangling datasets, parsing logs, and debugging things that worked perfectly 5 minutes ago<br><br>⚙️ learning deeply · building patiently · securing what matters
+## 💫 About Me
+
+👋🏽 Hey, I’m **Buhle**, a Software Engineer exploring the intersection of **data, cloud, and security** ☁️📊🔐
+
+🐍 I build with Python, query with SQL, automate with Linux, and investigate systems with unapologetic curiosity.
+
+🧩 I’m interested in how data moves, how cloud systems scale, and how attackers leave clues behind.
+
+💻 Usually found building pipelines, analysing logs, breaking things safely, and documenting the comeback.
+
+⚙️ **Build it well. Understand it deeply. Secure it properly.**
 
 
 ## 🌐 Socials:
